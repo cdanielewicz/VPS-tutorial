@@ -1,0 +1,4 @@
+.idea/*
+.idea
+*.sqlite3
+*.db
